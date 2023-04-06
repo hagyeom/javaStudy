@@ -1,5 +1,4 @@
-// »ï°¢Çü Ãâ·Â
-// º°Âï±â ÀÀ¿ë
+// ì‚¼ê°í˜• ì¶œë ¥
 public class PrintTriangle {
 
 	public static void main(String[] args) {
